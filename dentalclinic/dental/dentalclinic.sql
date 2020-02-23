@@ -1,11 +1,4 @@
--- phpMyAdmin SQL Dump
--- version 4.4.12
--- http://www.phpmyadmin.net
---
--- Host: 127.0.0.1
--- Generation Time: nov 17, 2020 at 10:43 PM
--- Server version: 5.6.25
--- PHP Version: 5.6.11
+
 
 SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
 SET time_zone = "+00:00";
